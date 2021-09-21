@@ -29,6 +29,11 @@ namespace ConsoleApplication_Fall2021
             Console.WriteLine($"The current date is: { currentDate.ToString("d")}");
 
 
+
+
+
+
+
             Console.Write("Press any key to quit");
             Console.ReadKey();
         }
